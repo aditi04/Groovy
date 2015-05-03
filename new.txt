@@ -1,0 +1,140 @@
+if("Test")
+{
+println "test evaluated to true inside if"
+}
+//test evaluated to true inside if
+List l=[]
+if(l)
+{
+println "test evaluated to true inside if"
+}
+//false
+if(100)
+{
+println "test evaluated to true inside if"
+}
+//test evaluated to true inside if
+List l=(1..10)
+print l;
+print "\n"
+def map = [:]
+
+l.each {
+    if (it % 2 == 0)
+        map.putAt(it, "even")
+    else
+        map.putAt(it, "odd")
+}
+
+println map
+10.times
+{
+   print(3*(it+1));
+   print("\t");
+}
+print "\n"
+1.upto(10,
+
+  {print(3*it+"\t");}
+)
+print "\n"
+1.step 11,1,{print(3*it+"\t");}
+if("Test")
+{
+println "test evaluated to true inside if"
+}
+//test evaluated to true inside if
+List list=new ArrayList()
+if(list)
+{
+println "test evaluated to true inside if"
+}
+//false
+class Person
+{
+String name
+int age
+String city
+String company
+int id
+int salary
+String gender 
+
+public String toString()
+{
+return name+" is a "+gender+" aged "+age+" who lives at "+city+".He works for "+company+" with employee id "+id+" and draws "+salary+" lots of money!"
+}
+
+public static void main(String...a)
+{
+def ob=new Person()
+ob.name="Sachin"
+ob.age=24
+ob.city="Delhi"
+ob.company="Intelligrape"
+ob.id=12
+ob.gender="man"
+ob.salary=25000
+print(ob.toString())
+}
+}
+if('null')
+{
+println "test evaluated to true inside if"
+}
+//test evaluated to true inside if
+class Person
+{
+private String name
+private int age
+private String gender 
+private String address
+
+
+public String getname()
+   {
+    return name;
+   }
+public int getage()
+   {
+    return age;
+   }
+public String getgender()
+   {
+    return gender;
+   }
+public String getaddress()
+   {
+    return address;
+   }
+public static void main(String...a)
+   {
+      def obj=new Person();
+      obj.name="aditi";
+      obj.age=22;
+      obj.gender="female";
+      obj.address="Delhi";
+      println("NAME: "+obj.getname());
+      println("AGE: "+obj.getage());
+      println("GENDER: "+obj.getgender());
+      println("ADDRESS: "+obj.address);
+   }
+}      
+   
+if(0)
+{
+println "test evaluated to true inside if"
+}
+//false
+if(null)
+{
+println "test evaluated to true inside if"
+}
+//false
+def a
+4.times
+{
+a=2**it
+a.times{print "*"}
+print "\n"
+}

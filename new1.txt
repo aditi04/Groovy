@@ -1,0 +1,140 @@
+1 if("Test")
+3 println "test evaluated to true inside if"
+5 //test evaluated to true inside if
+7 if(l)
+9 println "test evaluated to true inside if"
+11 //false
+13 {
+15 }
+17 List l=(1..10)
+19 print "\n"
+21 
+23     if (it % 2 == 0)
+25     else
+27 }
+29 println map
+31 {
+33    print("\t");
+35 print "\n"
+37 
+39 )
+41 1.step 11,1,{print(3*it+"\t");}
+43 {
+45 }
+47 List list=new ArrayList()
+49 {
+51 }
+53 class Person
+55 String name
+57 String city
+59 int id
+61 String gender 
+63 public String toString()
+65 return name+" is a "+gender+" aged "+age+" who lives at "+city+".He works for "+company+" with employee id "+id+" and draws "+salary+" lots of money!"
+67 
+69 {
+71 ob.name="Sachin"
+73 ob.city="Delhi"
+75 ob.id=12
+77 ob.salary=25000
+79 }
+81 if('null')
+83 println "test evaluated to true inside if"
+85 //test evaluated to true inside if
+87 {
+89 private int age
+91 private String address
+93 
+95    {
+97    }
+99    {
+101    }
+103    {
+105    }
+107    {
+109    }
+111    {
+113       obj.name="aditi";
+115       obj.gender="female";
+117       println("NAME: "+obj.getname());
+119       println("GENDER: "+obj.getgender());
+121    }
+123    
+125 {
+127 }
+129 if(null)
+131 println "test evaluated to true inside if"
+133 //false
+135 4.times
+137 a=2**it
+139 print "\n"
+1 1 if("Test")
+3 println "test evaluated to true inside if"
+5 //test evaluated to true inside if
+7 if(l)
+9 println "test evaluated to true inside if"
+11 //false
+13 {
+15 }
+17 List l=(1..10)
+19 print "\n"
+21 
+23     if (it % 2 == 0)
+25     else
+27 }
+29 println map
+31 {
+33    print("\t");
+35 print "\n"
+37 
+39 )
+41 1.step 11,1,{print(3*it+"\t");}
+43 {
+45 }
+47 List list=new ArrayList()
+49 {
+51 }
+53 class Person
+55 String name
+57 String city
+59 int id
+61 String gender 
+63 public String toString()
+65 return name+" is a "+gender+" aged "+age+" who lives at "+city+".He works for "+company+" with employee id "+id+" and draws "+salary+" lots of money!"
+67 
+69 {
+71 ob.name="Sachin"
+73 ob.city="Delhi"
+75 ob.id=12
+77 ob.salary=25000
+79 }
+81 if('null')
+83 println "test evaluated to true inside if"
+85 //test evaluated to true inside if
+87 {
+89 private int age
+91 private String address
+93 
+95    {
+97    }
+99    {
+101    }
+103    {
+105    }
+107    {
+109    }
+111    {
+113       obj.name="aditi";
+115       obj.gender="female";
+117       println("NAME: "+obj.getname());
+119       println("GENDER: "+obj.getgender());
+121    }
+123    
+125 {
+127 }
+129 if(null)
+131 println "test evaluated to true inside if"
+133 //false
+135 4.times
+137 a=2**it
+139 print "\n"
